@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\",
+  "WorkspaceRootPath": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|c:\\users\\gerlo\\onedrive\\coding\\pr\u00E1ctica personal\\examen t\u00E1ctica soft\\forms\\newclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:forms\\newclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\forms\\newclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:forms\\newclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\dataaccesses\\clientdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:dataaccesses\\clientdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|c:\\users\\gerlo\\onedrive\\coding\\pr\u00E1ctica personal\\examen t\u00E1ctica soft\\examen\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58C1F4E-0086-49F5-B5A3-484C79ED69ED}|Examen.csproj|solutionrelative:report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,61 +46,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-26T20:55:12.459Z",
+              "Title": "NewClient.cs",
+              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Forms\\NewClient.cs",
+              "RelativeDocumentMoniker": "Forms\\NewClient.cs",
+              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Forms\\NewClient.cs",
+              "RelativeToolTip": "Forms\\NewClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:48:25.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Report.cs",
-              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\Report.cs",
-              "RelativeDocumentMoniker": "Report.cs",
-              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\Report.cs",
-              "RelativeToolTip": "Report.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "ClientDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\DataAccesses\\ClientDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccesses\\ClientDataAccess.cs",
+              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\DataAccesses\\ClientDataAccess.cs",
+              "RelativeToolTip": "DataAccesses\\ClientDataAccess.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T20:58:10.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T10:50:46.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\Repository.cs",
-              "RelativeDocumentMoniker": "Repository.cs",
-              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\Repository.cs",
-              "RelativeToolTip": "Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\MainWindow.cs",
+              "RelativeDocumentMoniker": "MainWindow.cs",
+              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\MainWindow.cs",
+              "RelativeToolTip": "MainWindow.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T20:57:18.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T11:17:50.855Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Examen\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\MainWindow.cs",
+              "RelativeDocumentMoniker": "MainWindow.cs",
+              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\MainWindow.cs [Design]",
+              "RelativeToolTip": "MainWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T20:53:43.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Forms\\NewClient.cs",
+              "RelativeDocumentMoniker": "Forms\\NewClient.cs",
+              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Forms\\NewClient.cs [Design]",
+              "RelativeToolTip": "Forms\\NewClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:39:01.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "MainWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\MainWindow.Designer.cs",
+              "RelativeToolTip": "MainWindow.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAASwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:14:03.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository.cs",
+              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Repository.cs",
+              "RelativeToolTip": "Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:57:18.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Report.cs",
+              "RelativeDocumentMoniker": "Report.cs",
+              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Report.cs",
+              "RelativeToolTip": "Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:58:10.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\gerlo\\OneDrive\\Coding\\Pr\u00E1ctica personal\\Examen T\u00E1ctica Soft\\Entities\\Client.cs",
+              "RelativeToolTip": "Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:52:40.337Z"
             }
           ]
         }
